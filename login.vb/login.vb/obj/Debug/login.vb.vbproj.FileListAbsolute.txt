@@ -1,0 +1,10 @@
+C:\Users\mjdolado\documents\visual studio 2010\Projects\login.vb\login.vb\bin\login.vb.dll
+C:\Users\mjdolado\documents\visual studio 2010\Projects\login.vb\login.vb\bin\login.vb.pdb
+C:\Users\mjdolado\documents\visual studio 2010\Projects\login.vb\login.vb\bin\login.vb.xml
+C:\Users\mjdolado\documents\visual studio 2010\Projects\login.vb\login.vb\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mjdolado\documents\visual studio 2010\Projects\login.vb\login.vb\obj\Debug\login.vb.Resources.resources
+C:\Users\mjdolado\documents\visual studio 2010\Projects\login.vb\login.vb\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\mjdolado\documents\visual studio 2010\Projects\login.vb\login.vb\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\mjdolado\documents\visual studio 2010\Projects\login.vb\login.vb\obj\Debug\login.vb.dll
+C:\Users\mjdolado\documents\visual studio 2010\Projects\login.vb\login.vb\obj\Debug\login.vb.xml
+C:\Users\mjdolado\documents\visual studio 2010\Projects\login.vb\login.vb\obj\Debug\login.vb.pdb
